@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Padding is added so the final block is complete and the receiver can unpad correctly.\n");
+    printf("Why is padding added in block cipher modes?\n");
     return 0;
 }
